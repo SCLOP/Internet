@@ -1,0 +1,78 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #1E2A47;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 50px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 3em;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+/* Paquete Section */
+.paquetes {
+    background-color: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+}
+
+.paquete {
+    background-color: #D1D3D8;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.paquete h3 {
+    color: #1E2A47;
+}
+
+.paquete ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.paquete ul li {
+    font-size: 1.1em;
+}
+
+/* Beneficios Section */
+.beneficios {
+    background-color: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+}
+
+.beneficios ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.beneficios ul li {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+    background-color: #1E2A47;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
